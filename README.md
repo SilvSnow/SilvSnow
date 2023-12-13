@@ -1,6 +1,7 @@
 
 
 
+![image](https://github.com/SilvSnow/SilvSnow/assets/106847131/c00af149-f8a2-4b6e-973f-a0695ddddd0e)
 
 <h2> ![image](https://github.com/SilvSnow/SilvSnow/assets/106847131/c00af149-f8a2-4b6e-973f-a0695ddddd0e) &nbsp;What I'm listening to rn</h2>
 <p align="left">
