@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
+<img src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij" width="45" height="45"/>
 <img src="https://img.icons8.com/nolan/64/flask.png" alt="flask" width="45" height="45"/>      
 <img src="https://img.icons8.com/color/48/latex.png" alt="latex" width="45" height="45"/>
 </p>
