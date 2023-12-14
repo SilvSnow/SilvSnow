@@ -26,7 +26,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SilvSnow/count.svg" />
+  <img src="https://profile-counter.glitch.me/SilvSnow/count.svg&themeradical" />
 </p>
 
 ### <img src="https://github.com/SilvSnow/SilvSnow/assets/106847131/734aa6bf-5ef0-4ec7-bade-ffb564b47707" alt="vscode" width="18" height="18"/> My music taste:
