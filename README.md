@@ -20,7 +20,7 @@
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvSnow&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/SilvSnow/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvSnow)](https://github.com/SilvSnow/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvSnow&theme=radical)](https://github.com/SilvSnow/github-readme-stats)
 
 ### <img src="https://github.com/SilvSnow/SilvSnow/assets/106847131/734aa6bf-5ef0-4ec7-bade-ffb564b47707" alt="vscode" width="18" height="18"/> My music taste:
 
