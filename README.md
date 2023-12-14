@@ -15,7 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" intellij width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" intellij width="45" height="45"/>          
+<img src="https://icons8.com/icon/5mbMwDZ796xj/flask" intellij width="45" height="45"/>          
 </p>
 
 ### <img src="https://github.com/SilvSnow/SilvSnow/assets/106847131/734aa6bf-5ef0-4ec7-bade-ffb564b47707" alt="vscode" width="18" height="18"/> What I'm jamming to:
